@@ -5,12 +5,15 @@
 <Esc> /start
 ```
 
+
  ![](s1.png)
 
 * Delete the first "start" word and replace it with "base":
+
 ```
 dw (placed at the beginng of the word "start")
 ```
+
 ```
 base <Esc>
 ```
@@ -34,6 +37,7 @@ base <Esc>
 ![](s9.png) 
 
 * To save the changes:
+
 ```
 :w <Enter>
 ```
